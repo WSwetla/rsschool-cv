@@ -32,8 +32,8 @@ I have little experience in this work.
 *****
 ### _Projects_
 *****
-+ https://wswetla.github.io/Shelter/pages/pets/
 + https://wswetla.github.io/Shelter/pages/main/
++ https://wswetla.github.io/Shelter/pages/pets/
     + HTML
     + CSS
     + Git
