@@ -32,6 +32,10 @@ I have little experience in this work.
 *****
 ### _Projects_
 *****
++ https://wswetla.github.io/rsschool-cv/cv
+    + Markdoun
+	+ Git
+	+ Github
 + https://wswetla.github.io/Shelter/pages/main/
 + https://wswetla.github.io/Shelter/pages/pets/
     + HTML
