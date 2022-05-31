@@ -16,11 +16,56 @@
          url('../../fonts/red-hat-text-v11-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
   }
 
-.h1 {
-    font-family: 'Kanit', sans-serif;
+* {
+    padding: 0px;
+    margin: 0px;
+}  
+
+body {
+    background-color: #f3ddea;
+    font-family: 'Red Hat Text';
+} 
+
+.body a {
+    text-decoration: none;
+    cursor: pointer;
 }
 
-.navi h4 {
-    font-family: 'Kanit', sans-serif;
-    font-size: ;
+a:visited {
+    color: #bb78b0;
 }
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.image {
+    width: 250px;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 16px 20px 20px 6px #bb78b0;
+    }
+
+.h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    color: #413d3eee;
+}
+
+.h4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #8b7988;
+    list-style-type: none;
+}
+
+.h1:hover, .h2:hover, .h4:hover {
+    color: aqua;
+    transition: color 0.5s;
+}
+
+
+
