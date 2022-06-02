@@ -17,8 +17,8 @@
   }
 
 * {
-    padding: 0px;
-    margin: 0px;
+    margin: 0;
+    padding: 0;
 }  
 
 body {
@@ -26,9 +26,8 @@ body {
     font-family: 'Red Hat Text';
 } 
 
-.body a {
-    text-decoration: none;
-    cursor: pointer;
+img {
+
 }
 
 a:visited {
@@ -36,8 +35,31 @@ a:visited {
 }
 
 .container {
-    max-width: 800px;
+    width: 80%;
     margin: auto;
+}
+
+.header {
+    
+    background-color: #535153;
+
+}
+
+.header-navi li {
+    opacity: 0.75;
+    margin-right: 20px;
+}
+
+.header-navi {
+    justify-content: space-between;
+    text-align: center;
+
+}
+
+.navi {
+    display: inline;
+    height: 50px;
+    border-radius: 25px;
 }
 
 .image {
@@ -45,6 +67,7 @@ a:visited {
     cursor: pointer;
     border-radius: 20px;
     box-shadow: 16px 20px 20px 6px #bb78b0;
+    padding: 20px auto;
     }
 
 .h1 {
@@ -57,14 +80,19 @@ a:visited {
 .h4 {
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 20px;
     color: #8b7988;
     list-style-type: none;
+    text-decoration: none;
 }
 
 .h1:hover, .h2:hover, .h4:hover {
     color: aqua;
     transition: color 0.5s;
+}
+
+.intro-text {
+    margin-left: 35px;
 }
 
 
