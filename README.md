@@ -1,2 +1,2 @@
 # rsschool-cv
-https://WSwetla.github.io/rsschool-cv-html
+https://wswetla.github.io/rsschool-cv/
