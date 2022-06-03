@@ -80,7 +80,7 @@ a:hover {
     cursor: pointer;
     border-radius: 20px;
     box-shadow: 16px 20px 20px 6px #bb78b0;
-    padding: 20px auto;
+    padding: 20px 0;
     margin-left: 40px;
 }
 
